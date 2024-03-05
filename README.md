@@ -1,5 +1,7 @@
 # Concordium Umbrella oracle.
 
+This repo is archived because the code has been moved to [this repo](https://github.com/umbrella-network/phoenix-concordium).
+
 This is a temporary development repository to develop smart contracts for the Umbrella oracle on Concordium.
 
 The protocol consists of three smart contract folders:
